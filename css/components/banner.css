@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple&display=swap');
+
+.banner{
+  background-image:linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 40%),url("../../images/lou.png");
+  padding: 150px 0px;
+  background-position: center;
+  background-size: contain;
+  font-weight:bold;
+  text-align: center;
+  margin-bottom: 75px;
+}
+
+.banner .container{
+  width: 400px;
+}
+.banner h1{
+  color: black;
+  font-size: 40px;
+  background-image: linear-gradient(-225deg, rgba(246,174,45,0.5) 0%, rgba(254,195,166,0.5));
+  padding: 5px 5px;
+  font-family: 'Homemade Apple',cursive;
+  margin-bottom: 90px;
+}

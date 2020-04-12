@@ -1,0 +1,15 @@
+.image-card{
+  padding: 20px;
+  border: 2px solid black;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 10px;
+}
+
+.image-card img{
+  width: 100px;
+  height: 130px;
+  padding: 10px;
+}
