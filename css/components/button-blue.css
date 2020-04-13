@@ -4,4 +4,10 @@
   padding: 15px 20px;
   border-radius: 5%;
   font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.button-blue:hover{
+  color:yellow;
+  background-color: black;
 }
